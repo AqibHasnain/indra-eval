@@ -1,0 +1,266 @@
+{
+  "seed": 42,
+  "n": 50,
+  "oa_overlap": {
+    "total_pmids": 13891,
+    "with_pmcid": 7362,
+    "rate": 0.53
+  },
+  "verification": {
+    "checked": 98,
+    "accepted": 50,
+    "rejected_no_fulltext": 48
+  },
+  "papers": [
+    {
+      "pmid": "26195670",
+      "pmcid": "PMC4508888",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "29179460",
+      "pmcid": "PMC5687630",
+      "signor_row_count": 2
+    },
+    {
+      "pmid": "19287380",
+      "pmcid": "PMC2754075",
+      "signor_row_count": 9
+    },
+    {
+      "pmid": "29048339",
+      "pmcid": "PMC5666860",
+      "signor_row_count": 30
+    },
+    {
+      "pmid": "27206658",
+      "pmcid": "PMC4874025",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "29156836",
+      "pmcid": "PMC5689726",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "38111333",
+      "pmcid": "PMC10757218",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "24150225",
+      "pmcid": "PMC3818007",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "25097229",
+      "pmcid": "PMC4179492",
+      "signor_row_count": 4
+    },
+    {
+      "pmid": "23400999",
+      "pmcid": "PMC3575539",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "24470334",
+      "pmcid": "PMC4051830",
+      "signor_row_count": 6
+    },
+    {
+      "pmid": "28381988",
+      "pmcid": "PMC5360738",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "26449471",
+      "pmcid": "PMC4698017",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "27966653",
+      "pmcid": "PMC5155276",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "24145169",
+      "pmcid": "PMC3812980",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "22317922",
+      "pmcid": "PMC3400468",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "25085254",
+      "pmcid": "PMC4492456",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "19333390",
+      "pmcid": "PMC2659440",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "31805502",
+      "pmcid": "PMC6909106",
+      "signor_row_count": 3
+    },
+    {
+      "pmid": "29794136",
+      "pmcid": "PMC6052231",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "31690749",
+      "pmcid": "PMC6831656",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "27857196",
+      "pmcid": "PMC5114553",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "19329994",
+      "pmcid": "PMC2761768",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "30026574",
+      "pmcid": "PMC6475089",
+      "signor_row_count": 3
+    },
+    {
+      "pmid": "20424263",
+      "pmcid": "PMC3302164",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "21148297",
+      "pmcid": "PMC3016972",
+      "signor_row_count": 9
+    },
+    {
+      "pmid": "33310066",
+      "pmcid": "PMC8054712",
+      "signor_row_count": 2
+    },
+    {
+      "pmid": "25368549",
+      "pmcid": "PMC4201086",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "31731478",
+      "pmcid": "PMC6862009",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "28821708",
+      "pmcid": "PMC5562857",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "23967200",
+      "pmcid": "PMC3742773",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "24294527",
+      "pmcid": "PMC3833460",
+      "signor_row_count": 6
+    },
+    {
+      "pmid": "32570757",
+      "pmcid": "PMC7356855",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "25945589",
+      "pmcid": "PMC4549050",
+      "signor_row_count": 2
+    },
+    {
+      "pmid": "25675981",
+      "pmcid": "PMC4349240",
+      "signor_row_count": 5
+    },
+    {
+      "pmid": "36574265",
+      "pmcid": "PMC9797988",
+      "signor_row_count": 3
+    },
+    {
+      "pmid": "34162842",
+      "pmcid": "PMC8222345",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "20832753",
+      "pmcid": "PMC2939729",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "28060952",
+      "pmcid": "PMC5245905",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "26774286",
+      "pmcid": "PMC4744117",
+      "signor_row_count": 5
+    },
+    {
+      "pmid": "30377223",
+      "pmcid": "PMC6474246",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "19536134",
+      "pmcid": "PMC2699391",
+      "signor_row_count": 2
+    },
+    {
+      "pmid": "33684228",
+      "pmcid": "PMC8189631",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "18541707",
+      "pmcid": "PMC2426947",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "34417472",
+      "pmcid": "PMC8379279",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "22394684",
+      "pmcid": "PMC3446372",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "26112872",
+      "pmcid": "PMC4510892",
+      "signor_row_count": 18
+    },
+    {
+      "pmid": "32764831",
+      "pmcid": "PMC7413750",
+      "signor_row_count": 1
+    },
+    {
+      "pmid": "20881056",
+      "pmcid": "PMC2982124",
+      "signor_row_count": 2
+    },
+    {
+      "pmid": "20686657",
+      "pmcid": "PMC2912392",
+      "signor_row_count": 1
+    }
+  ]
+}
